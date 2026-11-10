@@ -4,6 +4,7 @@
 
 * [Overview](#overview)
 * [Page Mockups](#page-mockups)
+* [Our Team](#our-team)
 
 ## Overview
 
@@ -15,3 +16,10 @@ Many UH students come from out of state. Once they arrive here, they don't have 
 
 Find the Function provides an easy way for incoming and current students to discover a community that shares their interests.
 ## Page Mockups
+
+## Our Team
+
+* **Jordan Wong** is a Computer Science major in his second year at UH Mānoa.
+* **Jordan Shiroma**
+* **Stephanie Ching**
+* **Andrew Ti**
