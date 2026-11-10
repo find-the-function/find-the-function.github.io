@@ -43,4 +43,4 @@ Find the Function provides an easy way for incoming and current students to disc
 
 ### Team Contract
 
-https://docs.google.com/document/d/1ViUTyt8nWkhRRo5YUq3vbI1vyt_uwAQ-d9fYtBFMDrk/edit?usp=sharing
+<https://docs.google.com/document/d/1ViUTyt8nWkhRRo5YUq3vbI1vyt_uwAQ-d9fYtBFMDrk/edit?usp=sharing>
