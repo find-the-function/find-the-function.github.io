@@ -22,6 +22,12 @@ Find the Function provides an easy way for incoming and current students to disc
 
 ![landing page mockup](/img/find_the_function_mockup_homepage.png)
 
+### User Homepage
+
+![user homepage mockup](/img/user_page_mockup.jpg)
+
+### [admin home page](/img/admin_page_mockup.jpg)
+
 ## Our Team
 
 * **Jordan Wong** is a Computer Science major in his second year at UH Mānoa. He likes playing video games in his free time.
