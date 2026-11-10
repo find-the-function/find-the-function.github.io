@@ -26,7 +26,13 @@ Find the Function provides an easy way for incoming and current students to disc
 
 ![user homepage mockup](/img/user_page_mockup.jpg)
 
-### [admin home page](/img/admin_page_mockup.jpg)
+### User Profile Page
+
+![user profile page](/img/user_profile_mockup.jpg)
+
+### Admin home page
+
+![admin home page](/img/admin_page_mockup.jpg)
 
 ## Our Team
 
