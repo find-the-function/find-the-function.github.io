@@ -15,7 +15,10 @@ Many UH students come from out of state. Once they arrive here, they don't have 
 ### The Solution
 
 Find the Function provides an easy way for incoming and current students to discover a community that shares their interests.
+
 ## Page Mockups
+
+### Landing Page
 
 ## Our Team
 
