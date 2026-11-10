@@ -24,5 +24,5 @@ Find the Function provides an easy way for incoming and current students to disc
 
 * **Jordan Wong** is a Computer Science major in his second year at UH Mānoa.
 * **Jordan Shiroma** is a Computer Science major in his third year at UH Mānoa.
-* **Stephanie Ching**
+* **Stephanie Ching** is a Computer Science major in her third year at UH Mānoa. She likes reading and looks forward to gaining more experience in forming and running computer science projects.
 * **Andrew Ishida** is a Computer Science major in their third year at UHM. They dedicate their free time to writing and playing games.
