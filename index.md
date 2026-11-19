@@ -16,6 +16,18 @@ Many UH students come from out of state. Once they arrive here, they don't have 
 
 Find the Function provides an easy way for incoming and current students to discover a community that shares their interests.
 
+### Github Organization
+
+<https://github.com/find-the-function>
+
+### Deployment
+
+<https://find-the-function.vercel.app/>
+
+### M1 Project Page
+
+<https://github.com/orgs/find-the-function/projects/2/views/1>
+
 ## Page Mockups
 
 ### Landing Page
