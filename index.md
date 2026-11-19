@@ -58,7 +58,7 @@ to discover a community that shares their interests.
 
 ### Admin home page
 
-![admin home page](/img/admin_page_mockup.jpg)
+![admin home page](/img/Ftf-Admin-Home-Mockup.png)
 
 ## Our Team
 
