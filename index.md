@@ -42,15 +42,19 @@ to discover a community that shares their interests.
 
 ### Landing Page
 
-![landing page mockup](/img/find_the_function_mockup_homepage.png)
+![landing page mockup](/img/FtF-Landing-Mockup.png)
 
 ### User Homepage
 
-![user homepage mockup](/img/user_page_mockup.jpg)
+![user homepage mockup](/img/Ftf-User-Home-Mockup.png)
 
 ### User Profile Page
 
 ![user profile page](/img/user_profile_mockup.jpg)
+
+### User Interest Page
+
+![user interest page](/img/Ftf-Interests-Mockup.png)
 
 ### Admin home page
 
