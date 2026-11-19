@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Overview](#overview)
+* [Milestone Project Pages](#milestone-project-pages)
 * [Page Mockups](#page-mockups)
 * [Our Team](#our-team)
 
@@ -19,13 +20,15 @@ It's difficult for them to experience the fun parts of campus life.
 Find the Function provides an easy way for incoming and current students
 to discover a community that shares their interests.
 
-### Github Organization
+### GitHub Organization
 
 <https://github.com/find-the-function>
 
 ### Deployment
 
 <https://find-the-function.vercel.app/>
+
+## Milestone Project Pages
 
 ### M1 Project Page
 
