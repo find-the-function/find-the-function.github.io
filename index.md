@@ -34,6 +34,10 @@ to discover a community that shares their interests.
 
 <https://github.com/orgs/find-the-function/projects/2/views/1>
 
+### M2 Project Page
+
+<https://github.com/orgs/find-the-function/projects/3>
+
 ## Page Mockups
 
 ### Landing Page
